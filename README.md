@@ -39,25 +39,7 @@ It is implemented using NodeJs.
 > cd src
 > node 1_express.js
 ```
-* And your project is live on **localhost:3000**
-* Hit <a href="star Mehul2205/Weather-Website">star</a> button if you like this project.
-
-## About
-<p>
-This <a href = "https://mehul2205-weather-website.herokuapp.com"><b>PROJECT</b><a> is also hosted on herokuapp.com<br>
-    <b>Please Visit !!!.</b>
-</p>
-
 
 ## Created By:
-<i>Mehul Patni</i>
-<footer>
-  <a href="http://www.linkedin.com/in/mehul-patni">Linkedin
-  </a>
-  <a href="https://github.com/Mehul2205" class="mehul">Github
-  </a>
-  <a href="https://www.facebook.com/mehul.patni.370" class="mehul">Facebook
-  </a>
-  <a href="https://www.instagram.com/mehulpatni2205/" class="mehul">Instagram
-  </a>
-</footer>
+Vishwajeet Singh
+LinkedIn Id - https://www.linkedin.com/in/vishwajeet-singh-a070a4228
